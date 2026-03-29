@@ -53,7 +53,7 @@ Armor is Riot's dominant compensation tool for melee positioning disadvantage â€
 Base HP declines consistently across eras. Launch vs Modern difference is statistically significant (p=0.0025, Tukey HSD).
 
 ### Role Distribution by Era (Raw Count)
-![Role Distribution Raw](visuals/role_distribution_raw_by_era.png)
+![Role Distribution Raw](visuals/role_distribution_by_era.png)
 Every role shows declining raw counts in the Modern era, reflecting Riot's slower champion release cadence.
 
 ### Role Distribution by Era (Proportion)
